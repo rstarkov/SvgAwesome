@@ -1,0 +1,11 @@
+.vs
+Builds
+obj
+*.suo
+*.csproj.user
+*.sln.cache
+*.orig
+packages
+TestResults
+*.psess
+*.vspx

@@ -1,0 +1,3 @@
+[submodule "Generator/Font-Awesome-SVG-PNG"]
+	path = Generator/Font-Awesome-SVG-PNG
+	url = https://github.com/encharm/Font-Awesome-SVG-PNG.git
