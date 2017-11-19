@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>SvgAwesome</id>
+    <version>$version$</version>
+    <title>SvgAwesome</title>
+    <authors>rstarkov</authors>
+    <owners>rstarkov</owners>
+    <projectUrl>https://github.com/rstarkov/SvgAwesome</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Implements an arithmetic coding encoder and decoder with support for adaptive symbol context.</description>
+    <copyright>Copyright 2017 Roman Starkov</copyright>
+    <tags>fontawesome font awesome svg</tags>
+  </metadata>
+</package>
